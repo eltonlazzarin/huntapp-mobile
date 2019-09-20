@@ -1,5 +1,7 @@
 # Project Hunt Mobile App
 
+### Project made with React Native
+
 <p align="center">
   <img src="https://github.com/eltonlazzarin/huntapp-mobile/blob/master/src/huntapp.gif">
 </p>
@@ -21,6 +23,7 @@ To start, run the following command on your terminal.
 ```sh
 $ npm start
 ```
+
 
 
 
