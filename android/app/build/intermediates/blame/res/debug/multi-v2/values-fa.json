@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/eltonlazzarin/Documents/huntapp/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fa/values-fa.xml",
+            "outputFile": "/home/eltonlazzarin/Desktop/huntapp/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fa/values-fa.xml",
             "map": [
                 {
                     "source": "/home/eltonlazzarin/.gradle/caches/transforms-2/files-2.1/61d30b05ae4b8eb060c1f3c8277b6035/res/values-fa/values-fa.xml",

@@ -1,4 +1,4 @@
-#Fri Sep 20 11:56:02 BRT 2019
-base.0=/home/eltonlazzarin/Documents/huntapp/android/app/build/intermediates/transforms/dexMerger/debug/0
+#Fri Sep 20 19:18:04 BRT 2019
+base.0=/home/eltonlazzarin/Desktop/huntapp/android/app/build/intermediates/transforms/dexMerger/debug/0
 renamed.0=classes.dex
 path.0=classes.dex
