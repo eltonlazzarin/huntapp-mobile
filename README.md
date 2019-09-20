@@ -1,6 +1,8 @@
 # Project Hunt Mobile App
 
-
+<p align="center">
+  <img src="https://github.com/eltonlazzarin/huntapp-mobile/blob/master/src/huntapp.gif">
+</p>
 
 # Usage
 
